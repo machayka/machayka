@@ -5,7 +5,7 @@ see more my projects: <a href="https://github.com/GrandeWaver">github.com/Grande
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on najmuje.com & agreem.bid
+- 🔭 I’m currently working at <a href="https://najmuje.com">najmuje.com</a> and on <a href="https://agreem.bid">agreem.bid</a>
 - 🌱 I’m currently learning smartcontracts
 
 <!--
