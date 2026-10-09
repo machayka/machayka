@@ -5,8 +5,8 @@ see more my projects: <a href="https://github.com/GrandeWaver">github.com/Grande
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working at <a href="https://najmuje.com">najmuje.com</a> and on <a href="https://wy.najmuje.eu">wy.najmuje.eu</a>
-- 🌱 I’m currently learning smartcontracts
+- 🔭 working at <a href="https://najmuje.com">najmuje.com</a> and on <a href="https://wy.najmuje.eu">wy.najmuje.eu</a>
+- 🌱 learning smartcontracts
 
 <!--
 - 👯 I’m looking to collaborate on ...
